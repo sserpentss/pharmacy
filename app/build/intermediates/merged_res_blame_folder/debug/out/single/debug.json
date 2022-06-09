@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_tanometr.jpeg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\tanometr.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_bepanten.png.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\bepanten.png"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_zodak.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\zodak.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_marganec.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\marganec.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_bronhactive.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\bronhactive.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ammiak.jpeg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ammiak.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_citramon.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\citramon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_regular.ttf.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_bint.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\bint.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_text_content.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\text_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_yod.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\yod.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_stetoskop.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\stetoskop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ingaverin.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ingaverin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_med_help.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\fragment_med_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_furacilin.jpeg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\furacilin.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_zoloft.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\zoloft.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ingalyator.jpeg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ingalyator.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_lenuxin.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\lenuxin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_fenibut.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\fenibut.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_andipal.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\andipal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_starticon.png.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\starticon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_local_hospital_24.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ic_baseline_local_hospital_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_korvalol.jpeg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\korvalol.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_berlition.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\berlition.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_zelenka.png.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\zelenka.png"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_akriderm.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\akriderm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_venoprim.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\venoprim.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_puls.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\puls.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_h.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\h.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_holezim.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\holezim.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_start.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\start.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_mildronat.png.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\mildronat.png"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_glucometr.jpeg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\glucometr.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\build\\intermediates\\merged_res\\debug\\drawable_termometr.jpg.flat",
+        "source": "C:\\Users\\Ann\\AndroidStudioProjects\\pharmacy\\app\\src\\main\\res\\drawable\\termometr.jpg"
+    }
+]
