@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="care_array">
+        <item>Танометр</item>
+        <item>Ингалятор</item>
+        <item>Глюкометр</item>
+        <item>Термометр</item>
+        <item>Пульсоксиметр</item>
+        <item>Стетоскоп</item>
+    </string-array>
+    <string-array name="med_array">
+        <item>Акридерм</item>
+        <item>Цитрамон</item>
+        <item>Фенибут</item>
+        <item>Бепантен</item>
+        <item>Золофт</item>
+        <item>Ленуксин</item>
+        <item>Андипал</item>
+        <item>Зодак</item>
+        <item>Игнавирин</item>
+        <item>Веноприм</item>
+        <item>Бронхоактив</item>
+        <item>Берлитион</item>
+        <item>Холензим</item>
+        <item>Милдронат</item>
+    </string-array>
+    <string-array name="med_help">
+        <item>Бинт</item>
+        <item>Йод</item>
+        <item>Бриллиантовый зеленый</item>
+        <item>Перекись водорода</item>
+        <item>Фурацилин</item>
+        <item>Корвалол</item>
+        <item>Аммиак</item>
+        <item>Уголь</item>
+        <item>Калия перманганат</item>
+    </string-array>
+    <string-array name="vit_array">
+        <item>Витамины А и Е</item>
+        <item>Витамины группы B</item>
+        <item>Витамин С</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="dark_green">#F5D799</color>
+    <color name="green">#F5D799</color>
+    <color name="white">#F4F4F4</color>
+    <color name="yellow">#EBE4A5</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="akriderm">textetxtetxtetxtetttetettetetetettete</string>
+    <string name="app_name">Справочник "Аптека"</string>
+    <string name="composition">Действующие вещества</string>
+    <string name="condition">фывап</string>
+    <string name="conditions">Условия хранения</string>
+    <string name="contraindication">Противопоказания</string>
+    <string name="description">Описание</string>
+    <string name="effect">Фармокологический эффект</string>
+    <string name="indication">Показания к применению</string>
+    <string name="med_name">TextView</string>
+    <string name="menu_care">Медицинские приборы</string>
+    <string name="menu_help">Первая пломощь</string>
+    <string name="menu_med">Лекарства</string>
+    <string name="menu_vitamins">Витамины</string>
+    <string name="method">Способ применения и дозы</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Справочник "Аптека"</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="overdose">Передозировка</string>
+    <string name="side_effect">Побочные действия</string>
+    <style name="Theme.Pharmacy" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorSecondaryVariant">@color/green</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.Pharmacy.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Pharmacy.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Pharmacy.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
