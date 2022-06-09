@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Справочник "Аптека"</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Справочник "Аптека"</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_med">Лекарства</string>
+    <string name="menu_vitamins">Витамины</string>
+    <string name="menu_care">Медицинские приборы</string>
+    <string name="menu_help">Первая пломощь</string>
+
+    <string name="akriderm">textetxtetxtetxtetttetettetetetettete</string>
+    <string name="condition">фывап</string>
+    <string name="description">Описание</string>
+    <string name="composition">Действующие вещества</string>
+    <string name="effect">Фармокологический эффект</string>
+    <string name="indication">Показания к применению</string>
+    <string name="contraindication">Противопоказания</string>
+    <string name="method">Способ применения и дозы</string>
+    <string name="side_effect">Побочные действия</string>
+    <string name="overdose">Передозировка</string>
+    <string name="conditions">Условия хранения</string>
+    <string name="med_name">TextView</string>
+
+</resources>

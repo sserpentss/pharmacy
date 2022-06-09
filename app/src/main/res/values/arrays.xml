@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="med_array">
+        <item>Акридерм</item>
+        <item>Цитрамон</item>
+        <item>Фенибут</item>
+        <item>Бепантен</item>
+        <item>Золофт</item>
+        <item>Ленуксин</item>
+        <item>Андипал</item>
+        <item>Зодак</item>
+        <item>Игнавирин</item>
+        <item>Веноприм</item>
+        <item>Бронхоактив</item>
+        <item>Берлитион</item>
+        <item>Холензим</item>
+        <item>Милдронат</item>
+    </string-array>
+
+    <string-array name="vit_array">
+        <item>Витамины А и Е</item>
+        <item>Витамины группы B</item>
+        <item>Витамин С</item>
+    </string-array>
+
+    <string-array name="care_array">
+        <item>Танометр</item>
+        <item>Ингалятор</item>
+        <item>Глюкометр</item>
+        <item>Термометр</item>
+        <item>Пульсоксиметр</item>
+        <item>Стетоскоп</item>
+    </string-array>
+
+    <string-array name="med_help">
+        <item>Бинт</item>
+        <item>Йод</item>
+        <item>Бриллиантовый зеленый</item>
+        <item>Перекись водорода</item>
+        <item>Фурацилин</item>
+        <item>Корвалол</item>
+        <item>Аммиак</item>
+        <item>Уголь</item>
+        <item>Калия перманганат</item>
+    </string-array>
+</resources>
